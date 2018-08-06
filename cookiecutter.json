@@ -1,7 +1,5 @@
 {
   "role_name": "example-role",
   "description": "Role to setup example software",
-  "author": "Your name",
-  "use_sphinx_autoyaml": true,
-  "use_sphinx_lookup_yaml": true
+  "author": "Your name"
 }
