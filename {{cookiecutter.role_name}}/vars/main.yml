@@ -1,0 +1,10 @@
+---
+### example_variable2
+#   This is example_value2.
+#
+#   Default:
+#
+#   .. lookup-yaml:: vars/main.yml
+#
+#      _example_variable2
+_example_variable2: example_value2

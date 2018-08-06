@@ -1,0 +1,4 @@
+---
+- name: This is example task
+  debug:
+    msg: Nothing happens here

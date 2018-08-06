@@ -1,0 +1,7 @@
+---
+- hosts: all
+  tasks:
+    - import_role:
+        name: this_role
+      vars:
+        example_var: some_value
